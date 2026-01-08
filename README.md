@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Yashas Sadananda</h1>
 <h3 align="center">CS Undergrad | Software Developer | AI-Enabled Applications | Building Scalable & Clean Engineering Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yxshas565&label=Profile%20views&color=0e75b6&style=flat" alt="yxshas565" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yxshas565&label=Profile%20views&color=0e75b6&style=flat" alt="yxshas565" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yxshas565" alt="yxshas565" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yxshas565&theme=dracula&no-frame=true&row=1&column=5" alt="yxshas565 trophies" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on Building GenAI-powered applications & a MERN e-commerce platform (Trendify) [Trendify | GenAI Applications](https://github.com/yxshas565)
 
