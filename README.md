@@ -5,11 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=yxshas565&label=Profile%20views&color=0e75b6&style=flat" alt="yxshas565" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=yxshas565&theme=dracula&no-frame=true&row=1&column=5" alt="yxshas565 trophies" />
   </a>
-</p>
+</p> -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yxshas565)
+
 
 
 - 🔭 I’m currently working on Building GenAI-powered applications & a MERN e-commerce platform (Trendify) [Trendify | GenAI Applications](https://github.com/yxshas565)
