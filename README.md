@@ -11,7 +11,9 @@
 
 ### `> SADANANDA, YASHAS _ AI/ML ENGINEER`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+production-grade+agentic+AI+systems;Multi-agent+%7C+LangGraph+%7C+RAG+%7C+Scientific+ML;Scalar+Grande+Finale+2026+%E2%80%94+Top+Finalist+%2852%2C000%2B+devs);FantomCode+2026+%E2%80%94+Round+2+Finalist;PES+University+CSE+%2728+%7C+Bengaluru%2C+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+production-grade+agentic+AI+systems;Multi-agent+%7C+LangGraph+%7C+RAG+%7C+Scientific+ML;Scalar+Grande+Finale+2026+%E2%80%94+Top+Finalist+%2852%2C000%2B+devs%29;FantomCode+2026+%E2%80%94+Round+2+Finalist;PES+University+CSE+%2728+%7C+Bengaluru%2C+India)](https://github.com/yxshas565)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yxshas565&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true)
 
 <img src="https://komarev.com/ghpvc/?username=yxshas565&label=PROFILE+VIEWS&color=00ff9c&style=flat-square" />
 
@@ -101,7 +103,7 @@ Zero manual intervention. Full GitLab CI/CD. Deployed on HuggingFace Spaces.
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [RL-Based ML Pipeline Agent (OpenEnv + Reasoning Intelligence)](https://github.com/yxshas565/ml-pipeline-agent-rl)
+### ⚡ [MAST-Autofix](https://github.com/yxshas565)
 **7-Agent LLM Debugging System**
 
 `Scalar Grande Finale 2026 — Top Finalist (52,000+ developers)`
