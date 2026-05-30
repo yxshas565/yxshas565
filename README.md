@@ -29,10 +29,10 @@
   "role": "AI/ML Engineer · Multi-Agent Systems · Scientific ML",
   "university": "PES University, Bengaluru — B.Tech CSE '28",
   "gpa": 7.51,
-  "current_internships": ["QuadNet (Scientific ML)", "PESU Innovation Lab"],
+  "current_internships": ["PESU Innovation Lab"],
   "open_source": ["GSSoC", "Social Summer of Code", "Nexus Summer of Code"],
   "course": "AIML Programme — IIT Patna Certification",
-  "target": "GSoC 2027 · Winter MNC Internships · Pre-Placement Offer",
+  "target": "GSoC 2027 · Winter MNC Internships · Pre-Placement Offer · Entrepreneurial Ventures · Startup Launch/Opportunities",
   "athletics": "National-Level Inline & Ice Hockey — Karnataka",
   "status": "GRINDING"
 }
