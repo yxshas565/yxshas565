@@ -238,14 +238,13 @@ LANGUAGES ───────────────────────�
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yxshas565&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api?username=yxshas565&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yxshas565&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c)
+<img src="https://streak-stats.demolab.com/?user=yxshas565&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yxshas565&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxshas565&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=ffffff" />
 
 </div>
-
 ---
 
 ## `> CONNECT`
