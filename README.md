@@ -43,9 +43,8 @@
 ## `> CURRENT_STATUS`
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  🔬  Scientific ML Intern        @QuadNet                ║
-║  🏗️  Innovation Lab Intern       @PESU                   ║
+╔══════════════════════════════════════════════════════════╗                
+║  🏗️  Innovation Lab Intern       @PESU Vencture Labs    ║
 ║  🌍  Open Source Contributor     GSSoC · SSoC · NexSoC  ║
 ║  📚  AIML Certification          IIT Patna               ║
 ║  ⚡  DSA Grind                   LeetCode · CodeChef     ║
