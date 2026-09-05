@@ -2,245 +2,283 @@
 
 YASHAS SADANANDA
 
-AI / ML · Systems · Research
+AI / ML · SYSTEMS · AGENTIC AI · RESEARCH
 
-<a href="https://yxshas565.github.io/yashas-portfolio/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-FF4ECD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/yashas-sadananda-37a516358/">
-  <img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:yxshas565@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-FF4ECD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/yxshas565">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=FF6A00&center=true&vCenter=true&width=760&lines=building+intelligent+systems;training+models+%E2%86%92+instrumenting+models+%E2%86%92+understanding+models;agentic+AI+%C3%97+ML+systems+%C3%97+AI+safety;researching+what+happens+inside+the+model;build.+experiment.+understand.+ship." alt="Typing animation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FF4ECD&center=true&vCenter=true&width=720&lines=Building+intelligent+systems.;Researching+mechanistic+AI+safety.;Designing+agentic+ML+infrastructure.;Turning+research+ideas+into+working+systems." alt="Typing animation"/>
+<a href="https://yxshas565.github.io/yashas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0B0B0F?style=for-the-badge&logo=googlechrome&logoColor=FF6A00&labelColor=0B0B0F" /></a>
+<a href="https://www.linkedin.com/in/yashas-sadananda-37a516358/"><img src="https://img.shields.io/badge/LINKEDIN-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=FF2D00&labelColor=0B0B0F" /></a>
+<a href="mailto:yxshas565@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0B0F?style=for-the-badge&logo=gmail&logoColor=FF6A00&labelColor=0B0B0F" /></a>
+<a href="https://github.com/yxshas565"><img src="https://img.shields.io/badge/GITHUB-0B0B0F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B0B0F" /></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yxshas565&style=flat-square&color=FF4ECD&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=yxshas565&label=PROFILE%20SIGNALS&color=FF6A00&style=flat-square" />
 
 </div>
 
-01 · IDENTITY
+<div align="center">
 
-Yashas Sadananda
-B.Tech Computer Science Engineering · PES University · Bengaluru
+01 / SYSTEM IDENTITY
 
-AI / ML Engineer
-Systems Builder
-Agentic AI Developer
-AI Safety Researcher
+</div>
 
-I build intelligent systems that sit between research ideas and usable software.
-My work spans ML pipelines, autonomous agents, multi-agent systems,
-voice interfaces, applied forecasting, and mechanistic AI safety.
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│  YASHAS S.                                                                   │
+│  ─────────────────────────────────────────────────────────────────────────   │
+│  B.Tech CSE @ PES University · Bengaluru                                     │
+│                                                                              │
+│  AI / ML Engineer        Systems Builder        Agentic AI Developer         │
+│  AI Safety Researcher    Open Source Contributor                              │
+│                                                                              │
+│  I build systems that don't stop at producing an output.                    │
+│  I care about what happens underneath — representations, behavior,          │
+│  orchestration, reliability, observability and safety.                      │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 
-Current direction: building AI systems with stronger internal observability, reliability, and safety — not just better outputs.
+I work across machine learning, agentic systems, backend engineering and AI safety research.
 
-02 · CURRENTLY BUILDING
+Don't just make the model work. Understand the system that makes it work.
 
-EdgeDaemon
+<div align="center">
 
-AI safety infrastructure for understanding what models are doing internally.
+02 / CURRENTLY BUILDING
 
-EdgeDaemon is the broader research / venture direction. Its flagship system is MechGuard, a mechanistic AI safety monitoring framework designed to inspect models below the input/output layer across training and deployment.
+EDGE DAEMON
 
-MechGuard
+AI SYSTEMS · MECHANISTIC MONITORING · SAFETY
 
-Study
+</div>
 
-Focus
+EdgeDaemon is my current research / venture direction around building infrastructure that can observe intelligent systems below the input/output layer.
 
-Attest
+Its flagship system is:
 
-Training-time geometric signals and phase-transition-like changes during fine-tuning
+MECHGUARD
 
-Watch
+Mechanistic AI safety monitoring across the model lifecycle.
 
-Activation-level monitoring for multi-agent coordination / collusion behavior
+                         ┌─────────────────────────┐
+                         │       AI SYSTEM         │
+                         └────────────┬────────────┘
+                                      │
+                    ┌─────────────────┴─────────────────┐
+                    │                                   │
+                    ▼                                   ▼
+          ┌───────────────────┐               ┌───────────────────┐
+          │      ATTEST       │               │       WATCH       │
+          │                   │               │                   │
+          │ Training-time     │               │ Deployment-time   │
+          │ geometric signals │               │ internal signals  │
+          │                   │               │                   │
+          │ Fine-tuning       │               │ Multi-agent       │
+          │ phase transitions │               │ coordination      │
+          └─────────┬─────────┘               └─────────┬─────────┘
+                    │                                   │
+                    └─────────────────┬─────────────────┘
+                                      ▼
+                           ┌────────────────────┐
+                           │   MECHANISTIC      │
+                           │   MONITORING       │
+                           │                    │
+                           │ detect · interpret │
+                           │ understand · alert │
+                           └────────────────────┘
 
-The central idea:
+Study A — ATTEST
 
-MODEL BEHAVIOR
-      ↓
-INTERNAL REPRESENTATIONS
-      ↓
-GEOMETRIC / ACTIVATION SIGNALS
-      ↓
-EARLY-WARNING MONITORING
-      ↓
-SAFER TRAINING + DEPLOYMENT
+Investigating training-time geometric signals during fine-tuning and whether internal changes can reveal emergent behavioral shifts.
 
-<a href="https://github.com/yxshas565/mechguard">
-  <img src="https://img.shields.io/badge/MECHGUARD-READ_RESEARCH_REPO-FF4ECD?style=for-the-badge&logo=github&logoColor=white" alt="MechGuard"/>
-</a>
-<a href="https://github.com/yxshas565/Edge-Daemon">
-  <img src="https://img.shields.io/badge/EDGE_DAEMON-VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="EdgeDaemon"/>
-</a>
+Study B — WATCH
 
-03 · SELECTED BUILDS
+Investigating activation-level signatures associated with coordination / collusion in multi-agent systems.
 
-◈ Autonomous ML Pipeline Orchestrator
+Research thesis:
 
-Autonomous ML infrastructure that turns a dataset + objective into an executable ML workflow.
-
-DATASET
-  ↓
-INSPECTION
-  ↓
-PREPROCESSING
-  ↓
-MODEL / EXPERIMENT PLANNING
-  ↓
 TRAINING
-  ↓
-EVALUATION
-  ↓
-ARTIFACTS + RESULTS
+   ↓
+internal dynamics
+   ↓
+behavioral transition
+   ↓
+DEPLOYMENT
+   ↓
+internal representations
+   ↓
+multi-agent interaction
+   ↓
+SAFETY MONITORING
 
-Stack: Python · FastAPI · LangGraph · LangChain · scikit-learn · Docker · ML tooling
+<a href="https://github.com/yxshas565/mechguard"><img src="https://img.shields.io/badge/MECHGUARD-RESEARCH-FF6A00?style=for-the-badge&labelColor=0B0B0F" /></a>
+<a href="https://github.com/yxshas565/Edge-Daemon"><img src="https://img.shields.io/badge/EDGE_DAEMON-SYSTEMS-FF2D00?style=for-the-badge&labelColor=0B0B0F" /></a>
 
-<a href="https://github.com/yxshas565/ml-pipeline-orchestrator-agent">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-FF4ECD?style=for-the-badge&logo=github&logoColor=white" alt="ML Pipeline Orchestrator"/>
-</a>
+<div align="center">
 
-◈ Sunrise AI Voice Agent
+03 / SELECTED BUILDS
 
-A conversational voice-agent system combining speech interaction, LLM reasoning, tool use, and backend services.
+systems, experiments, agents & applied intelligence
 
-Stack: Python · LLMs · Agentic AI · APIs · Voice / speech pipeline
+</div>
 
-<a href="https://github.com/yxshas565/sunrise-ai-voice-agent">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Sunrise AI Voice Agent"/>
-</a>
+PROJECT
 
-◈ MilletDataNet
+WHAT IT DOES
 
-Applied ML / data-science project focused on agricultural data and predictive modeling.
+STACK
 
-Stack: Python · Pandas · NumPy · scikit-learn · XGBoost · Matplotlib
+Autonomous ML Pipeline Orchestrator
 
-<a href="https://github.com/yxshas565/milletdatanet">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-FF4ECD?style=for-the-badge&logo=github&logoColor=white" alt="MilletDataNet"/>
-</a>
+Agentic ML workflow automation from data processing through experimentation and evaluation.
 
-◈ Weather Risk Forecasting
+Python ML Agents
 
-Machine-learning system for weather-risk prediction with an application layer.
+Sunrise AI Voice Agent
 
-Stack: Python · Pandas · NumPy · scikit-learn · XGBoost · Streamlit
+Voice-first conversational AI combining speech interaction, reasoning and tool-oriented behavior.
 
-<a href="https://github.com/yxshas565/weather-risk-forecasting">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Weather Risk Forecasting"/>
-</a>
-<a href="https://github.com/yxshas565/weather-risk-app">
-  <img src="https://img.shields.io/badge/APP_REPOSITORY-FF4ECD?style=for-the-badge&logo=github&logoColor=white" alt="Weather Risk App"/>
-</a>
+Python LLMs Voice AI
 
-◈ NEXUS — Advanced AI Research System
+MilletDataNet
 
-Research-oriented AI system exploring modular intelligence, orchestration, and advanced AI workflows.
+Applied agricultural ML system connecting data processing with predictive workflows.
 
-<a href="https://github.com/yxshas565/Advanced-AI-Research-System">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-FF4ECD?style=for-the-badge&logo=github&logoColor=white" alt="NEXUS"/>
-</a>
+Python Pandas scikit-learn
 
-◈ ML Pipeline Agent — RL
+Weather Risk Forecasting
 
-Exploration of reinforcement learning for autonomous ML workflow decisions.
+Predictive weather-risk pipeline with a dedicated application layer.
 
-Stack: Python · Reinforcement Learning · Q-Learning · ML workflows
+Python ML Forecasting
 
-<a href="https://github.com/yxshas565/ml-pipeline-agent-rl">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="ML Pipeline Agent RL"/>
-</a>
+NEXUS
 
-04 · ENGINEERING STACK
+Experimental AI research environment exploring model-driven workflows and intelligent tooling.
 
-Programming
+Python AI Research
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java" alt="Programming skills"/>
+ML Pipeline Agent RL
+
+Reinforcement-learning approach to ML pipeline decision-making and workflow optimization.
+
+Python RL Q-Learning
+
+Trendify
+
+Full-stack experimentation around an e-commerce product experience.
+
+React Node.js Express
+
+<div align="center">
+
+04 / ENGINEERING STACK
+
+</div>
+
+PROGRAMMING
 
 Python · C · C++ · JavaScript · TypeScript · SQL
 
-Machine Learning / AI
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="ML skills"/>
+ML / AI
 
 PyTorch · scikit-learn · XGBoost · Hugging Face Transformers · Deep Learning · Reinforcement Learning · Q-Learning · LSTM
 
-Generative AI / Agents
+GENERATIVE AI / AGENTS
 
 LLMs · Agentic AI · RAG · LangGraph · LangChain · Multi-Agent Systems · Prompt Engineering
 
-Data Science
+DATA
 
 Pandas · NumPy · Matplotlib · Feature Engineering · Data Visualization
 
-Backend / DevOps
-
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,gitlab,linux" alt="Backend and DevOps skills"/>
+BACKEND / DEVOPS
 
 FastAPI · REST APIs · Docker · Git · GitHub · GitLab CI/CD · Linux
 
-Databases / Cloud
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,gcp,azure" alt="Databases and cloud skills"/>
+DATABASES / CLOUD
 
 SQLite · MySQL · PostgreSQL · Google Cloud · Microsoft Azure
 
-Other
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" alt="Other technologies"/>
+OTHER
 
 React · Next.js · Node.js · Express.js · Streamlit · MQTT · OpenEnv
 
-05 · RESEARCH
+<div align="center">
 
-Mechanistic AI Safety
+05 / RESEARCH
 
-My current research direction is centered on monitoring internal model state rather than relying only on external behavior.
+MECHANISTIC AI SAFETY
 
-TRAINING
-│
-├── Fine-tuning dynamics
-├── Representation geometry
-├── Weight-space changes
-└── Emergent behavioral shifts
-          │
-          ▼
-       ATTEST
-          │
-          ▼
-DEPLOYMENT
-│
-├── Activations
-├── Multi-agent interactions
-├── Coordination signals
-└── Potential collusion
-          │
-          ▼
-        WATCH
+</div>
 
-The broader goal is to develop practical monitoring signals that can support early detection, interpretability, and safety interventions during the model lifecycle.
+My research direction focuses on moving AI safety monitoring closer to the internal mechanisms of intelligent systems.
 
-<a href="https://github.com/yxshas565/mechguard">
-  <img src="https://img.shields.io/badge/MECHGUARD-RESEARCH-FF4ECD?style=for-the-badge&logo=github&logoColor=white" alt="MechGuard Research"/>
-</a>
+Instead of treating a model as:
 
-06 · SHIPPED + COMPETITIONS
+INPUT ───────────────────────────────► OUTPUT
 
-Hackathons / Programs
+the question becomes:
 
-FantomCode 2026 — Round 2 Finalist
+INPUT
+  │
+  ▼
+┌─────────────────────────────────────┐
+│           INTERNAL STATE            │
+│                                     │
+│ representations                     │
+│ activations                         │
+│ geometry                            │
+│ learned features                    │
+│ interaction patterns                │
+└──────────────────┬──────────────────┘
+                   │
+                   ▼
+                OUTPUT
 
-Scalar Grande Finale 2026 — Top Finalist
+MechGuard explores whether these internal signals can become useful observables for detecting important behavioral transitions and unsafe coordination patterns.
+
+Core themes
+
+Mechanistic Interpretability · Representation Geometry · Activation Analysis · Emergent Misalignment · Multi-Agent Safety · AI Monitoring
+
+<div align="center">
+
+06 / EXPERIENCE
+
+</div>
+
+EDGE DAEMON
+
+2026 — Present
+
+Research / venture direction focused on intelligent systems, AI safety monitoring and mechanistic observability.
+
+PESU INNOVATION LAB
+
+2026
+
+Engineering and research work within the university innovation ecosystem.
+
+SINGLE CORE LABS
+
+2026
+
+Software / AI engineering experience across practical systems and development workflows.
+
+<div align="center">
+
+07 / HACKATHONS · OPEN SOURCE · COMMUNITY
+
+</div>
+
+HACKATHONS / BUILDER EVENTS
+
+Scalar Grande Finale — Top Finalist
+
+FantomCode — Round 2 Finalist
 
 GitLab AI Hackathon
 
@@ -250,149 +288,120 @@ IEEE YESIST12
 
 IEEE Hack-Night
 
-Open Source
+OPEN SOURCE
 
-GirlScript Summer of Code (GSSoC)
+GirlScript Summer of Code · Social Summer of Code · Hugging Face
 
-Social Summer of Code (SSoC)
+Contributing, experimenting and learning in public.
 
-Hugging Face open-source ecosystem
+COMMUNITY
 
-07 · EXPERIENCE
+IEEE RAS PESUCC Robotics Club — Technical Domain
+IEEE EC Campus — Technical Domain
+Kannada Koota — IT / Technical Domain
 
-EdgeDaemon
+<div align="center">
 
-AI Safety / Research · Ongoing
+08 / CREDENTIALS
 
-Building toward a research-driven AI safety system focused on mechanistic monitoring and internal model behavior.
+</div>
 
-PESU Innovation Lab
-
-AI / ML · 2026
-
-Applied AI / ML work in a university innovation environment.
-
-Single Core Labs
-
-Engineering · 2026
-
-Software / engineering experience contributing to practical systems.
-
-08 · COMMUNITY
-
-IEEE RAS PESUCC Robotics Club
-
-Technical Domain
-
-IEEE EC Campus
-
-Technical Domain
-
-Kannada Koota
-
-IT / Technical Domain
-
-09 · LEARNING + CREDENTIALS
-
-Microsoft — Azure Generative AI & Neural Networks
-
-McKinsey — Forward Program
-
-IIT Patna — AI / ML Programme
-
+Microsoft Azure — Generative AI & Neural Networks
+McKinsey Forward
+IIT Patna — AI / ML
 HackerRank — Python
 
-Currently continuing deeper work across:
+CURRENT LEARNING
 
-AI Agents · Reinforcement Learning · LLM Systems · Mechanistic Interpretability · AI Safety · ML Infrastructure
-
-10 · GITHUB ACTIVITY
+Mechanistic Interpretability · AI Safety · Agentic Systems · Deep Learning · ML Systems
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yxshas565&bg_color=0D1117&color=FF4ECD&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+09 / GITHUB TELEMETRY
 
-<br/><br/>
+activity is the by-product. building is the signal.
 
-<img src="https://github-readme-stats.vercel.app/api?username=yxshas565&show_icons=true&theme=transparent&hide_border=true&title_color=FF4ECD&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxshas565&layout=compact&theme=transparent&hide_border=true&title_color=FF4ECD&text_color=C9D1D9" height="165" alt="Top languages"/>
+<br/>
 
-<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yxshas565&bg_color=0B0B0F&color=FF6A00&line=FF2D00&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yxshas565&theme=github_dark" alt="GitHub profile summary"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yxshas565&show_icons=true&hide_border=true&bg_color=0B0B0F&title_color=FF6A00&icon_color=FF2D00&text_color=E6E6E6&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxshas565&layout=compact&hide_border=true&bg_color=0B0B0F&title_color=FF6A00&text_color=E6E6E6" height="170" />
 
 </div>
 
-11 · CONTRIBUTION SNAKE
-
 <div align="center">
 
-<p><b>THE GRID IS ALIVE.</b></p>
+10 / CONTRIBUTION MATRIX
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yxshas565/yxshas565/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yxshas565/yxshas565/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/yxshas565/yxshas565/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/yxshas565/yxshas565/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="95%" />
 
 </div>
 
-12 · CURRENT OPERATING MODE
+<div align="center">
 
-[ BUILD ]
-    ↓
-[ EXPERIMENT ]
-    ↓
-[ MEASURE ]
-    ↓
-[ UNDERSTAND ]
-    ↓
-[ SHIP ]
-    ↓
-[ REPEAT ]
+11 / OPERATING MODE
 
-I'm especially interested in the space where AI research, autonomous systems, and production engineering overlap.
+              ┌───────────────┐
+              │    BUILD      │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │  EXPERIMENT   │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │   MEASURE     │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │  UNDERSTAND   │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │     SHIP      │
+              └───────┬───────┘
+                      │
+                      └───────────────► REPEAT
 
-The objective is simple:
+intelligent · observable · reliable · safe
 
-Build systems that are not only intelligent — but observable, reliable, and safe.
-
-13 · FIND ME
+</div>
 
 <div align="center">
+
+12 / FIND ME
 
 <a href="https://yxshas565.github.io/yashas-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-FF4ECD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-FF6A00?style=for-the-badge&logoColor=0B0B0F" />
 </a>
 <a href="https://www.linkedin.com/in/yashas-sadananda-37a516358/">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-FF2D00?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
 </a>
 <a href="https://huggingface.co/yxshas565">
-  <img src="https://img.shields.io/badge/Hugging_Face-FF4ECD?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/HUGGING_FACE-0B0B0F?style=for-the-badge&logo=huggingface&logoColor=FF6A00" />
 </a>
 <a href="https://leetcode.com/u/yxshas565/">
-  <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LEETCODE-0B0B0F?style=for-the-badge&logo=leetcode&logoColor=FFB000" />
 </a>
 <a href="https://www.codechef.com/users/yashas_s_565">
-  <img src="https://img.shields.io/badge/CodeChef-FF4ECD?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+<img src="https://img.shields.io/badge/CODECHEF-0B0B0F?style=for-the-badge&logo=codechef&logoColor=FF6A00" />
 </a>
 
 <br/><br/>
 
-Email: yxshas565@gmail.com
+<a href="mailto:yxshas565@gmail.com">
+<img src="https://img.shields.io/badge/yxshas565%40gmail.com-FF6A00?style=for-the-badge&logo=gmail&logoColor=0B0B0F" />
+</a>
 
-GitHub: @yxshas565
-
-</div>
-
-<div align="center">
-
-SYSTEM STATUS
+<br/><br/>
 
 ONLINE · BUILDING · RESEARCHING · SHIPPING
 
 <br/>
 
-<sub>Designed & engineered by Yashas Sadananda · Bengaluru, India</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D00,50:FF6A00,100:FF2D00&height=100&section=footer" width="100%" />
 
 </div>
