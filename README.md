@@ -1,130 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=YASHAS%20SADANANDA&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=FFFFFF&desc=AI%20%2F%20ML%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20AGENTS%20%E2%80%A2%20AI%20SAFETY&descAlign=50&descAlignY=58&animation=twinkling&color=0:050505,35:160700,70:FF3D00,100:FF8A00" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&text=YASHAS%20SADANANDA&fontAlign=50&fontAlignY=38&fontSize=44&fontColor=FFFFFF&desc=AI%20%2F%20ML%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20AGENTIC%20AI%20%E2%80%A2%20AI%20SAFETY&descAlign=50&descAlignY=60&descSize=17&animation=twinkling&color=0:050505,35:160500,70:FF3D00,100:FF8A00" />
 
-<a href="https://yxshas565.github.io/yashas-portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=050505" />
-</a>
-<a href="https://www.linkedin.com/in/yashas-sadananda-37a516358/">
-<img src="https://img.shields.io/badge/LINKEDIN-FF3D00?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
-</a>
-<a href="mailto:yxshas565@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-FF8A00?style=for-the-badge&logo=gmail&logoColor=050505" />
-</a>
-<a href="https://github.com/yxshas565">
-<img src="https://img.shields.io/badge/GITHUB-161616?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
+<a href="https://yxshas565.github.io/yashas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=050505" /></a>
+<a href="https://www.linkedin.com/in/yashas-sadananda-37a516358/"><img src="https://img.shields.io/badge/LINKEDIN-FF3D00?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
+<a href="mailto:yxshas565@gmail.com"><img src="https://img.shields.io/badge/CONTACT-FF8A00?style=for-the-badge&logo=gmail&logoColor=050505" /></a>
+<a href="https://github.com/yxshas565"><img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=1100&color=FF6A00&center=true&vCenter=true&width=900&height=55&lines=BUILDING+INTELLIGENT+SYSTEMS.;TRAIN+%E2%86%92+INSTRUMENT+%E2%86%92+UNDERSTAND.;AGENTIC+AI+%C3%97+ML+SYSTEMS+%C3%97+AI+SAFETY.;BUILD.+EXPERIMENT.+UNDERSTAND.+SHIP." alt="Animated introduction" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1800&pause=500&color=FF6A00&center=true&vCenter=true&width=850&height=55&lines=I+BUILD+INTELLIGENT+SYSTEMS.;I+TRAIN+MODELS+%E2%86%92+INSTRUMENT+MODELS+%E2%86%92+UNDERSTAND+MODELS.;AGENTIC+AI+%C3%97+ML+SYSTEMS+%C3%97+AI+SAFETY.;BUILD.+EXPERIMENT.+UNDERSTAND.+SHIP." alt="Animated typing intro"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=yxshas565&label=PROFILE%20SIGNALS&color=ff6a00&style=for-the-badge" />
+<sub><b>B.Tech CSE @ PES University · Bengaluru</b></sub>
 
 </div>
 
 <div align="center">
 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         Y A S H A S   S A D A N A N D A                     ║
-║                                                                              ║
-║  AI / ML ENGINEER  •  SYSTEMS BUILDER  •  AGENTIC AI  •  AI SAFETY          ║
-║                                                                              ║
-║  B.Tech CSE @ PES University · Bengaluru                                    ║
-║                                                                              ║
-║  I build systems that don't just produce outputs.                           ║
-║  I care about what happens underneath — models, representations,             ║
-║  orchestration, reliability, observability and safety.                      ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+AI / ML ENGINEER   ·   SYSTEMS BUILDER   ·   AGENTIC AI   ·   AI SAFETY
 
 </div>
+
+I build intelligent systems across machine learning, agentic AI, backend engineering and AI safety research.
+
+My focus is not only whether a model produces the right output — but what happens underneath it: representations, internal dynamics, orchestration, reliability, observability and safety.
+
+Build the system. Instrument the system. Understand the system.
 
 <div align="center">
 
-CURRENT MODE
+NOW BUILDING
 
-BUILDING   →   EXPERIMENTING   →   MEASURING   →   UNDERSTANDING   →   SHIPPING
+EDGE DAEMON
 
-</div>
-
-01 — EDGE DAEMON
-
-<div align="center">
-
-AI SYSTEMS × MECHANISTIC MONITORING × SAFETY
-
-<a href="https://github.com/yxshas565/Edge-Daemon">
-<img src="https://img.shields.io/badge/EDGE_DAEMON-RESEARCH_%2F_VENTURE-FF3D00?style=for-the-badge&labelColor=090909" />
-</a>
-<a href="https://github.com/yxshas565/mechguard">
-<img src="https://img.shields.io/badge/MECHGUARD-FLAGSHIP_SYSTEM-FF8A00?style=for-the-badge&labelColor=090909" />
-</a>
+AI SYSTEMS · MECHANISTIC MONITORING · SAFETY
 
 </div>
 
-What if AI safety monitoring could observe the system beneath the I/O layer?
+EdgeDaemon is my current research / venture direction focused on infrastructure for observing intelligent systems below the conventional input/output layer.
 
-EdgeDaemon is my current research / venture direction.
-MechGuard is its flagship system for mechanistic AI safety monitoring across the model lifecycle.
+MECHGUARD
 
-                                ┌─────────────────────┐
-                                │      AI SYSTEM      │
-                                └──────────┬──────────┘
-                                           │
-                         ┌─────────────────┴─────────────────┐
-                         │                                   │
-                         ▼                                   ▼
-               ┌──────────────────┐                ┌──────────────────┐
-               │      ATTEST      │                │      WATCH       │
-               │                  │                │                  │
-               │  TRAINING TIME   │                │ DEPLOYMENT TIME  │
-               │                  │                │                  │
-               │  geometry        │                │ activations      │
-               │  fine-tuning     │                │ representations  │
-               │  phase changes   │                │ multi-agent      │
-               │                  │                │ coordination     │
-               └────────┬─────────┘                └────────┬─────────┘
-                        │                                   │
-                        └────────────────┬──────────────────┘
-                                         ▼
-                              ┌────────────────────┐
-                              │    MECHGUARD       │
-                              │                    │
-                              │ DETECT              │
-                              │ INTERPRET           │
-                              │ UNDERSTAND          │
-                              │ ALERT               │
-                              └────────────────────┘
+MechGuard is the flagship system — a mechanistic AI safety monitoring framework spanning training-time and deployment-time signals.
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ATTEST
 
-Training-time geometric signals during fine-tuning and whether internal changes can reveal emergent behavioral shifts.
+Training-time
+
+Investigating geometric signals during fine-tuning and whether internal changes can reveal emergent behavioral shifts.
+
+geometry · fine-tuning · phase transitions
+
+</td>
+<td width="50%" valign="top">
 
 WATCH
 
-Activation-level signatures associated with coordination / collusion in multi-agent systems.
+Deployment-time
 
-TRAINING
-   ↓
-INTERNAL DYNAMICS
-   ↓
-BEHAVIORAL TRANSITION
-   ↓
-DEPLOYMENT
-   ↓
-INTERNAL REPRESENTATIONS
-   ↓
-MULTI-AGENT INTERACTION
-   ↓
-MECHANISTIC MONITORING
+Investigating activation-level signatures associated with coordination / collusion in multi-agent systems.
 
-02 — SELECTED BUILDS
+activations · representations · multi-agent
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-SYSTEMS • AGENTS • ML • APPLIED INTELLIGENCE
+TRAINING → INTERNAL DYNAMICS → BEHAVIORAL TRANSITION → DEPLOYMENT → INTERNAL REPRESENTATIONS → SAFETY
+
+<br/><br/>
+
+<a href="https://github.com/yxshas565/mechguard"><img src="https://img.shields.io/badge/MECHGUARD-OPEN%20RESEARCH-FF6A00?style=for-the-badge&labelColor=090909" /></a>
+<a href="https://github.com/yxshas565/Edge-Daemon"><img src="https://img.shields.io/badge/EDGE%20DAEMON-BUILDING-FF3D00?style=for-the-badge&labelColor=090909" /></a>
+
+</div>
+
+<div align="center">
+
+SELECTED WORK
+
+systems · agents · ML · applied intelligence
 
 </div>
 
@@ -134,26 +97,22 @@ SYSTEMS • AGENTS • ML • APPLIED INTELLIGENCE
 
 ⚙️ ML PIPELINE ORCHESTRATOR
 
-Autonomous ML workflow
+Autonomous ML workflow orchestration across data preparation, experimentation and evaluation.
 
-Agentic orchestration across data preparation, experimentation and model evaluation.
+Python · ML · Agents · Automation
 
-Python ML Agents Automation
-
-→ OPEN REPOSITORY
+<a href="https://github.com/yxshas565/ml-pipeline-orchestrator-agent">↗ VIEW PROJECT</a>
 
 </td>
 <td width="50%" valign="top">
 
 🎙️ SUNRISE AI
 
-AI voice agent
+Voice-first conversational AI combining speech interaction, reasoning and tool-oriented behavior.
 
-Voice-first conversational system combining speech interaction, reasoning and tools.
+Python · LLMs · Voice AI · Agents
 
-Python LLMs Voice AI Agents
-
-→ OPEN REPOSITORY
+<a href="https://github.com/yxshas565/sunrise-ai-voice-agent">↗ VIEW PROJECT</a>
 
 </td>
 </tr>
@@ -163,26 +122,22 @@ Python LLMs Voice AI Agents
 
 🌾 MILLETDATANET
 
-Agricultural intelligence
+Applied agricultural ML connecting data processing with predictive workflows.
 
-Applied ML workflow connecting agricultural data processing with prediction.
+Python · Pandas · scikit-learn
 
-Python Pandas scikit-learn
-
-→ OPEN REPOSITORY
+<a href="https://github.com/yxshas565/milletdatanet">↗ VIEW PROJECT</a>
 
 </td>
 <td width="50%" valign="top">
 
 🌦️ WEATHER RISK
 
-Predictive intelligence
-
 Weather-risk forecasting pipeline paired with an application layer.
 
-Python ML Forecasting
+Python · ML · Forecasting
 
-→ MODEL · APP
+<a href="https://github.com/yxshas565/weather-risk-forecasting">MODEL</a> · <a href="https://github.com/yxshas565/weather-risk-app">APP</a>
 
 </td>
 </tr>
@@ -192,26 +147,22 @@ Python ML Forecasting
 
 🧠 NEXUS
 
-Advanced AI research system
+Experimental AI research environment exploring model-driven workflows and intelligent tooling.
 
-Experimental environment for model-driven workflows and intelligent tooling.
+Python · AI · Research
 
-Python AI Research
-
-→ OPEN REPOSITORY
+<a href="https://github.com/yxshas565/Advanced-AI-Research-System">↗ VIEW PROJECT</a>
 
 </td>
 <td width="50%" valign="top">
 
 🧬 ML PIPELINE AGENT RL
 
-Learning to orchestrate
+Experimental reinforcement-learning approach to ML pipeline decision-making.
 
-Experimental reinforcement-learning approach to ML pipeline decisions.
+Python · RL · Q-Learning
 
-Python RL Q-Learning
-
-→ OPEN REPOSITORY
+<a href="https://github.com/yxshas565/ml-pipeline-agent-rl">↗ VIEW PROJECT</a>
 
 </td>
 </tr>
@@ -221,50 +172,48 @@ Python RL Q-Learning
 
 🛒 TRENDIFY
 
-Full-stack build
+Full-stack e-commerce product experience and web engineering build.
 
-E-commerce product experience and web engineering experimentation.
+React · Node.js · Express.js
 
-React Node.js Express.js
-
-→ OPEN REPOSITORY
+<a href="https://github.com/yxshas565/E-commerce-Website">↗ VIEW PROJECT</a>
 
 </td>
 <td width="50%" valign="top">
 
 🛡️ MECHGUARD
 
-Mechanistic AI safety
+Mechanistic AI safety research across training and deployment.
 
-Internal-signal monitoring research across training and deployment.
+PyTorch · Interpretability · AI Safety
 
-PyTorch Interpretability AI Safety
-
-→ OPEN REPOSITORY
+<a href="https://github.com/yxshas565/mechguard">↗ VIEW PROJECT</a>
 
 </td>
 </tr>
 </table>
 
-03 — THE STACK
-
 <div align="center">
+
+ENGINEERING DNA
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,sql,pytorch,sklearn,docker,linux,git,github,fastapi,react,nextjs,nodejs,postgres,mysql,gcp,azure&perline=10" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PyTorch-ML-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Transformers-LLMs-FF6A00?style=flat-square&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-Agents-FF3D00?style=flat-square" />
-<img src="https://img.shields.io/badge/LangChain-GenAI-FF8A00?style=flat-square" />
-<img src="https://img.shields.io/badge/XGBoost-ML-FF6A00?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenEnv-Research-FF3D00?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-FF6A00?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic%20AI-FF3D00?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-FF8A00?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-FF6A00?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-FF3D00?style=flat-square" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-FF8A00?style=flat-square" />
+<img src="https://img.shields.io/badge/XGBoost-FF6A00?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenEnv-FF3D00?style=flat-square" />
 
 </div>
 
 <details>
-<summary><b>EXPAND ENGINEERING STACK</b></summary>
+<summary><b>FULL STACK →</b></summary>
 
 <br/>
 
@@ -291,9 +240,9 @@ React · Next.js · Node.js · Express.js · Streamlit · MQTT · OpenEnv
 
 </details>
 
-04 — RESEARCH
-
 <div align="center">
+
+RESEARCH DIRECTION
 
 MECHANISTIC AI SAFETY
 
@@ -301,101 +250,132 @@ MECHANISTIC AI SAFETY
 
 Most AI interfaces expose:
 
-INPUT ───────────────────────────────────────────────► OUTPUT
+<div align="center">
 
-My research asks what happens if we instead inspect:
+INPUT ───────────────────────────────→ OUTPUT
 
-INPUT
-  │
-  ▼
-╔══════════════════════════════════════════════════╗
-║                 INTERNAL STATE                   ║
-║                                                  ║
-║  representations   •   activations              ║
-║  geometry          •   learned features          ║
-║  interaction patterns   •   internal dynamics    ║
-╚══════════════════════════════╤═══════════════════╝
-                               │
-                               ▼
-                             OUTPUT
+</div>
 
-CORE QUESTIONS
+My research asks what becomes possible when the internal state becomes observable.
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+REPRESENTATIONS
+
+Internal features and learned structure
+
+</td>
+<td align="center" width="34%">
+
+ACTIVATIONS
+
+Signals inside the computation
+
+</td>
+<td align="center" width="33%">
+
+GEOMETRY
+
+Changes across training and behavior
+
+</td>
+</tr>
+</table>
+
+Core questions
 
 Can internal geometric changes reveal important behavioral transitions?
 
 Can activation-level signals expose coordination patterns in multi-agent systems?
 
-Can monitoring move closer to the mechanism rather than relying only on behavior?
+Can safety monitoring move closer to mechanism rather than relying only on behavior?
 
-Themes:
 Mechanistic Interpretability · Representation Geometry · Activation Analysis · Emergent Misalignment · Multi-Agent Safety · AI Monitoring
 
-05 — EXPERIENCE
+<div align="center">
 
-2026 → PRESENT
-┌──────────────────────────────────────────────────────────────────┐
-│ EDGE DAEMON                                                      │
-│ Research / venture direction                                    │
-│ Intelligent systems · mechanistic monitoring · AI safety        │
-└──────────────────────────────────────────────────────────────────┘
+EXPERIENCE
 
-2026
-┌──────────────────────────────────────────────────────────────────┐
-│ PESU INNOVATION LAB                                              │
-│ Engineering + research within the university innovation         │
-│ ecosystem                                                        │
-└──────────────────────────────────────────────────────────────────┘
+</div>
 
-2026
-┌──────────────────────────────────────────────────────────────────┐
-│ SINGLE CORE LABS                                                 │
-│ Software / AI engineering experience                             │
-└──────────────────────────────────────────────────────────────────┘
+<table>
+<tr>
+<td width="22%" align="center"><b>2026 → PRESENT</b></td>
+<td><b>EDGE DAEMON</b><br/>Research / venture direction · intelligent systems · mechanistic monitoring · AI safety</td>
+</tr>
+<tr>
+<td align="center"><b>2026</b></td>
+<td><b>PESU INNOVATION LAB</b><br/>Engineering + research within the university innovation ecosystem</td>
+</tr>
+<tr>
+<td align="center"><b>2026</b></td>
+<td><b>SINGLE CORE LABS</b><br/>Software / AI engineering experience</td>
+</tr>
+</table>
 
-06 — BUILDER RECORD
+<div align="center">
+
+BUILDER RECORD
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 HACKATHONS / EVENTS
 
-SCALAR GRANDE FINALE — TOP FINALIST
-FANTOMCODE — ROUND 2 FINALIST
-GITLAB AI HACKATHON
-META × PYTORCH OPENENV
-IEEE YESIST12
-IEEE HACK-NIGHT
+🔥 Scalar Grande Finale — Top Finalist
+🔥 FantomCode — Round 2 Finalist
+⚡ GitLab AI Hackathon
+⚡ Meta × PyTorch OpenEnv
+⚡ IEEE YESIST12
+⚡ IEEE Hack-Night
+
+</td>
+<td width="50%" valign="top">
 
 OPEN SOURCE
 
-GSSoC · SSoC · HUGGING FACE
+GSSoC
+SSoC
+Hugging Face
+
+<br/>
 
 COMMUNITY
 
-IEEE RAS PESUCC ROBOTICS CLUB · IEEE EC CAMPUS · KANNADA KOOTA
+IEEE RAS PESUCC Robotics Club
+IEEE EC Campus
+Kannada Koota
 
-07 — CREDENTIALS
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+CREDENTIALS
+
+</div>
 
 Microsoft Azure — Generative AI & Neural Networks
 McKinsey Forward
 IIT Patna — AI / ML
 HackerRank — Python
 
-NOW LEARNING
-
+Currently learning:
 Mechanistic Interpretability · AI Safety · Agentic Systems · Deep Learning · ML Systems
-
-08 — LIVE TELEMETRY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yxshas565&bg_color=050505&color=FF6A00&line=FF3D00&point=FFFFFF&area_color=7A1F00&area=true&hide_border=true&custom_title=BUILD%20ACTIVITY" width="96%" />
+GITHUB / BUILD SIGNAL
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=yxshas565&show_icons=true&hide_border=true&bg_color=050505&title_color=FF6A00&icon_color=FF3D00&text_color=E8E8E8&ring_color=FF6A00&rank_icon=github&cache_seconds=1800" width="49%" />
 
-<a href="https://github.com/yxshas565">
-<img src="https://github-readme-stats.vercel.app/api?username=yxshas565&show_icons=true&hide_border=true&bg_color=050505&title_color=FF6A00&icon_color=FF3D00&text_color=E8E8E8&ring_color=FF6A00&rank_icon=github" height="180" />
-</a>
-<a href="https://github.com/yxshas565">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxshas565&layout=compact&hide_border=true&bg_color=050505&title_color=FF6A00&text_color=E8E8E8" height="180" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxshas565&layout=compact&hide_border=true&bg_color=050505&title_color=FF6A00&text_color=E8E8E8&cache_seconds=1800" width="42%" />
 
 <br/><br/>
 
@@ -403,47 +383,32 @@ Mechanistic Interpretability · AI Safety · Agentic Systems · Deep Learning ·
 
 </div>
 
-09 — CONTRIBUTION FIRE
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yxshas565/yxshas565/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="96%" />
+LET'S BUILD
+
+If you're working on AI systems, agents, ML infrastructure, interpretability, or AI safety, I'm always interested in ambitious problems and serious collaboration.
 
 <br/>
 
-EVERY SQUARE = ANOTHER ITERATION
+<a href="https://yxshas565.github.io/yashas-portfolio/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=050505" /></a>
 
-</div>
-
-10 — FIND ME
-
-<div align="center">
-
-<a href="https://yxshas565.github.io/yashas-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=050505" /></a>
-<a href="https://www.linkedin.com/in/yashas-sadananda-37a516358/"><img src="https://img.shields.io/badge/LINKEDIN-FF3D00?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
-<a href="https://huggingface.co/yxshas565"><img src="https://img.shields.io/badge/HUGGING%20FACE-161616?style=for-the-badge&logo=huggingface&logoColor=FF8A00" /></a>
-<a href="https://leetcode.com/u/yxshas565/"><img src="https://img.shields.io/badge/LEETCODE-161616?style=for-the-badge&logo=leetcode&logoColor=FFB000" /></a>
-<a href="https://www.codechef.com/users/yashas_s_565"><img src="https://img.shields.io/badge/CODECHEF-161616?style=for-the-badge&logo=codechef&logoColor=FF6A00" /></a>
+<a href="mailto:yxshas565@gmail.com"><img src="https://img.shields.io/badge/START%20A%20CONVERSATION-FF3D00?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
 
 <br/><br/>
 
-<a href="mailto:yxshas565@gmail.com"><img src="https://img.shields.io/badge/yxshas565%40gmail.com-FF8A00?style=for-the-badge&logo=gmail&logoColor=050505" /></a>
+<a href="https://www.linkedin.com/in/yashas-sadananda-37a516358/">LinkedIn</a>
+  ·  
+<a href="https://huggingface.co/yxshas565">Hugging Face</a>
+  ·  
+<a href="https://leetcode.com/u/yxshas565/">LeetCode</a>
+  ·  
+<a href="https://www.codechef.com/users/yashas_s_565">CodeChef</a>
 
-</div>
+<br/><br/>
 
-<div align="center">
+<sub><b>BUILD · EXPERIMENT · UNDERSTAND · SHIP</b></sub>
 
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  BUILD.                                                       │
-│       EXPERIMENT.                                             │
-│               UNDERSTAND.                                     │
-│                       SHIP.                                   │
-│                                                              │
-│  AND THEN BUILD SOMETHING HARDER.                             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:FF8A00,45:FF3D00,75:160700,100:050505" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:050505,30:160500,65:FF3D00,100:FF8A00" />
 
 </div>
